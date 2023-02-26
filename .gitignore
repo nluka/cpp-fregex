@@ -1,0 +1,8 @@
+.vscode/
+*.obj
+*.exe
+*.ilk
+*.pdb
+
+testing/*.md
+testing/*.debug
